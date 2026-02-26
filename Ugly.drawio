@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.5">
+  <diagram name="Asthma CXR QI Final Clean" id="AC0emMATTlrQSzB562qC">
+    <mxGraphModel dx="1426" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" value="Presentation Consistent with&#xa;Acute Asthma Exacerbation&#xa;(Age 2–18, Established Diagnosis)" vertex="1">
+          <mxGeometry height="90" width="350" x="370" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1;" value="Comorbidity or&#xa;Alternative Indication Present?" vertex="1">
+          <mxGeometry height="120" width="250" x="420" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" value="Manage Accordingly" vertex="1">
+          <mxGeometry height="60" width="200" x="740" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" value="CONSIDER CHEST X-RAY IF:&#xa;&#xa;• Severe Respiratory Distress&#xa;  (Score 7–12)&#xa;&#xa;OR&#xa;&#xa;• Inadequate Response &gt; 2 Hours WITH:&#xa;   - History of Recurrent Pneumonia&#xa;   - History of Pneumothorax&#xa;&#xa;OR&#xa;&#xa;• Inadequate Response &gt; 2 Hours WITH:&#xa;   - SpO₂ &lt; 91% on Room Air&#xa;   - OR Requiring FiO₂ &gt; 50%" vertex="1">
+          <mxGeometry height="260" width="450" x="320" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;" value="NO Routine Chest X-Ray" vertex="1">
+          <mxGeometry height="70" width="260" x="440" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;" value="EXCLUDED COMORBIDITIES:&#xa;&#xa;- Sickle Cell Disease&#xa;- Congenital Heart Disease&#xa;- Immunodeficiency&#xa;- Bronchopulmonary Dysplasia&#xa;- Severe Malnutrition&#xa;- First Wheezing Episode&#xa;- Other Clear Alternate Indications&#xa;  (Trauma, Post-op, etc.)" vertex="1">
+          <mxGeometry height="300" width="220" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-7" edge="1" parent="1" source="EijsvPAOVUwPyVZA9iZ5-1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="EijsvPAOVUwPyVZA9iZ5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-8" edge="1" parent="1" source="EijsvPAOVUwPyVZA9iZ5-2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="EijsvPAOVUwPyVZA9iZ5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-9" edge="1" parent="1" source="EijsvPAOVUwPyVZA9iZ5-2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="EijsvPAOVUwPyVZA9iZ5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EijsvPAOVUwPyVZA9iZ5-10" edge="1" parent="1" source="EijsvPAOVUwPyVZA9iZ5-4" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="EijsvPAOVUwPyVZA9iZ5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
