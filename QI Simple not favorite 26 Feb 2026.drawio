@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.5">
+  <diagram name="Asthma CXR QI Updated" id="V2JpYqx0leCDiQCvgnae">
+    <mxGraphModel dx="1426" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="Presentation Consistent with&#xa;Acute Asthma Exacerbation&#xa;(Age 2–18, Established Diagnosis)" vertex="1">
+          <mxGeometry height="90" width="360" x="130" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="Comorbidities or&#xa;Alternative Indication?" vertex="1">
+          <mxGeometry height="120" width="250" x="185" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" value="Manage Accordingly" vertex="1">
+          <mxGeometry height="60" width="200" x="510" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" value="CONSIDER CHEST X-RAY IF:&#xa;&#xa;• Severe Respiratory Distress&#xa;  (Score 7–12)&#xa;&#xa;OR&#xa;&#xa;• Inadequate response &gt;2 hrs&#xa;  WITH history of:&#xa;   - Recurrent Pneumonia&#xa;   - Prior Pneumothorax&#xa;&#xa;OR&#xa;&#xa;• SpO₂ &lt; 91% on room air&#xa;  OR requiring FiO₂ &gt; 50%" vertex="1">
+          <mxGeometry height="260" width="440" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" value="NO Routine Chest X-Ray" vertex="1">
+          <mxGeometry height="70" width="240" x="210" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-6" edge="1" parent="1" source="gHV5mUa4kEQKUa-bgqc5-1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="gHV5mUa4kEQKUa-bgqc5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-7" edge="1" parent="1" source="gHV5mUa4kEQKUa-bgqc5-2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="gHV5mUa4kEQKUa-bgqc5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-8" edge="1" parent="1" source="gHV5mUa4kEQKUa-bgqc5-2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="gHV5mUa4kEQKUa-bgqc5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHV5mUa4kEQKUa-bgqc5-9" edge="1" parent="1" source="gHV5mUa4kEQKUa-bgqc5-4" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;" target="gHV5mUa4kEQKUa-bgqc5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
