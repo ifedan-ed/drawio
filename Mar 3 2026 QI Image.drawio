@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.6.0">
+  <diagram name="CXR QI Flowchart" id="9AojJ5SYZ3YuZ7WpwGyt">
+    <mxGraphModel dx="1426" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pRgEexwxrKvvUqylI0am-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b style=&quot;font-size:15px;letter-spacing:1px;&quot;&gt;QI TO DECREASE UNNECESSARY CHEST X-RAY&lt;br&gt;IN ACUTE ASTHMA EXACERBATION IN CHILDREN 2–18 YEARS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="700" x="315" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;arcSize=12;verticalAlign=top;align=left;shadow=1;" value="&lt;div style=&quot;text-align:left;padding:10px;&quot;&gt;&lt;b style=&quot;font-size:12px;&quot;&gt;INCLUSION CRITERIA&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Children age 2–18 years&lt;br&gt;• Established asthma diagnosis&lt;br&gt;• Presentation consistent with acute asthma exacerbation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="330" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;arcSize=8;verticalAlign=top;align=left;shadow=1;" value="" vertex="1">
+          <mxGeometry height="310" width="530" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-4" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;" value="&lt;div style=&quot;text-align:left;padding:10px 10px 4px 10px;&quot;&gt;&lt;b style=&quot;font-size:12px;&quot;&gt;EXCLUSION CRITERIA&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Comorbidities: sickle cell disease, congenital heart disease,&lt;br&gt;  immunodeficiency, BPD, severe malnutrition&lt;br&gt;• First-time wheezing unrelated to prior asthma diagnosis&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="510" x="530" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-5" parent="1" style="line;strokeWidth=1;strokeColor=#b85450;dashed=1;dashPattern=5 3;html=1;" value="" vertex="1">
+          <mxGeometry height="1" width="490" x="540" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e6e6;strokeColor=#d4a0a0;strokeWidth=1;arcSize=10;verticalAlign=top;align=left;shadow=0;dashed=1;dashPattern=4 4;" value="&lt;div style=&quot;text-align:left;padding:8px 10px;&quot;&gt;&lt;b style=&quot;font-size:11px;color:#b85450;&quot;&gt;⚑ Other conditions where CXR is required:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;table style=&quot;font-size:11px;border-collapse:collapse;width:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;padding:3px 8px;vertical-align:top;&quot;&gt;•&lt;/td&gt;&lt;td style=&quot;padding:3px 0;&quot;&gt;Physical findings suggestive of &lt;b&gt;pneumonia or parenchymal disease&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color:#666;&quot;&gt;(focal crackles, dullness, fever)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:3px 8px;vertical-align:top;&quot;&gt;•&lt;/td&gt;&lt;td style=&quot;padding:3px 0;&quot;&gt;Suspicion of &lt;b&gt;inhaled foreign body&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color:#666;&quot;&gt;(sudden onset, unilateral decreased breath sounds)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:3px 8px;vertical-align:top;&quot;&gt;•&lt;/td&gt;&lt;td style=&quot;padding:3px 0;&quot;&gt;Suspicion of &lt;b&gt;structural complications&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color:#666;&quot;&gt;(pneumothorax, pneumomediastinum)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:3px 8px;vertical-align:top;&quot;&gt;•&lt;/td&gt;&lt;td style=&quot;padding:3px 0;&quot;&gt;&lt;b&gt;Trauma, post-op&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="505" x="535" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-7" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#888888;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="250" as="sourcePoint" />
+            <mxPoint x="295" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-8" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#888888;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="460" as="sourcePoint" />
+            <mxPoint x="785" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-9" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#888888;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="430" as="sourcePoint" />
+            <mxPoint x="785" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-10" edge="1" parent="1" style="endArrow=classic;endSize=8;html=1;strokeWidth=2;strokeColor=#888888;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="sourcePoint" />
+            <mxPoint x="540" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;arcSize=20;shadow=1;" value="&lt;b style=&quot;font-size:13px;&quot;&gt;DO NOT ROUTINELY OBTAIN CHEST X-RAY&lt;/b&gt;&lt;br&gt;&lt;i&gt;in typical / uncomplicated asthma exacerbation&lt;/i&gt;" vertex="1">
+          <mxGeometry height="65" width="440" x="320" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-12" edge="1" parent="1" source="pRgEexwxrKvvUqylI0am-11" style="endArrow=classic;endSize=8;html=1;strokeWidth=2;strokeColor=#888888;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pRgEexwxrKvvUqylI0am-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;arcSize=20;shadow=1;" value="&lt;b style=&quot;font-size:13px;&quot;&gt;CONSIDER OBTAINING CXR IF:&lt;/b&gt;" vertex="1">
+          <mxGeometry height="55" width="350" x="370" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b style=&quot;font-size:18px;color:#cc0000;&quot;&gt;OR&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="50" x="520" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-15" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#cc0000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="632" as="sourcePoint" />
+            <mxPoint x="285" y="632" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-16" edge="1" parent="1" style="endArrow=classic;endSize=8;html=1;strokeWidth=2;strokeColor=#cc0000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="632" as="sourcePoint" />
+            <mxPoint x="285" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;arcSize=15;shadow=1;" value="&lt;b style=&quot;font-size:12px;&quot;&gt;Severe Respiratory Distress&lt;br&gt;Respiratory Score 7–12&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="270" x="150" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-18" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#4472C4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="632" as="sourcePoint" />
+            <mxPoint x="820" y="632" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-19" edge="1" parent="1" style="endArrow=classic;endSize=8;html=1;strokeWidth=2;strokeColor=#4472C4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="632" as="sourcePoint" />
+            <mxPoint x="820" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;arcSize=15;shadow=1;" value="&lt;b style=&quot;font-size:12px;&quot;&gt;Inadequate Response After ≥ 2 Hours&lt;br&gt;of Routine Asthma Exacerbation Management&lt;/b&gt;&lt;br&gt;&lt;i&gt;WITH any of the following:&lt;/i&gt;" vertex="1">
+          <mxGeometry height="90" width="400" x="620" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-21" edge="1" parent="1" source="pRgEexwxrKvvUqylI0am-20" style="endArrow=classic;endSize=8;html=1;strokeWidth=2;strokeColor=#4472C4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-22" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="&lt;b&gt;Past Medical&lt;br&gt;History&lt;/b&gt;" vertex="1">
+          <mxGeometry height="55" width="160" x="550" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-23" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=1.5;top=1;left=0;bottom=1;right=1;align=left;verticalAlign=middle;fontSize=11;" value="&lt;div style=&quot;padding-left:12px;&quot;&gt;1. History of recurrent pneumonia&lt;br&gt;2. History of pneumothorax&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="340" x="710" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-24" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=1;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="&lt;b&gt;RR &amp;gt; 40*&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="550" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-25" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=0;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="2–5 years of age" vertex="1">
+          <mxGeometry height="40" width="340" x="710" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-26" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=1;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="&lt;b&gt;RR &amp;gt; 30*&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="550" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-27" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=0;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="6–8 years of age" vertex="1">
+          <mxGeometry height="40" width="340" x="710" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-28" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=1;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="&lt;b&gt;RR &amp;gt; 20*&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="550" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-29" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=0;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="9–18 years of age" vertex="1">
+          <mxGeometry height="40" width="340" x="710" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-30" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=1;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="&lt;b&gt;Pulse Oximetry&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="160" x="550" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-31" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=0;bottom=1;right=1;align=left;verticalAlign=middle;" value="&lt;div style=&quot;text-align:left;padding-left:12px;font-size:11px;&quot;&gt;Lowest SpO₂ &amp;lt;91% on room air*&lt;br&gt;&lt;b&gt;OR&lt;/b&gt; required inhaled FiO₂ &amp;gt;50% to keep saturations &amp;gt;90%&lt;br&gt;&lt;i style=&quot;color:#888;&quot;&gt;* after 2 hours of routine management&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="340" x="710" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-32" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=1;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="&lt;b&gt;Lung Exam&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="160" x="550" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-33" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=1.5;top=0;left=0;bottom=1;right=1;align=center;verticalAlign=middle;fontSize=11;" value="Localizing findings or asymmetry on lung examination" vertex="1">
+          <mxGeometry height="45" width="340" x="710" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-34" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#cc0000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="810" as="sourcePoint" />
+            <mxPoint x="285" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-35" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#cc0000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="1240" as="sourcePoint" />
+            <mxPoint x="540" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-36" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#4472C4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1165" as="sourcePoint" />
+            <mxPoint x="820" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-37" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#4472C4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1240" as="sourcePoint" />
+            <mxPoint x="540" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-38" edge="1" parent="1" style="endArrow=classic;endSize=10;html=1;strokeWidth=2;strokeColor=#333333;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1240" as="sourcePoint" />
+            <mxPoint x="540" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;arcSize=20;shadow=1;" value="&lt;b style=&quot;font-size:14px;&quot;&gt;→ OBTAIN CHEST X-RAY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="55" width="400" x="340" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="pRgEexwxrKvvUqylI0am-40" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;i style=&quot;font-size:10px;color:#666666;&quot;&gt;* Respiratory rate thresholds apply after ≥ 2 hours of routine asthma exacerbation management&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="520" x="310" y="1350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
