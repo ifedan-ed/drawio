@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.5">
+  <diagram name="CXR QI Flowchart" id="FjCL9AJM0kOdwFPofPE3">
+    <mxGraphModel dx="1426" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b style=&quot;font-size:14px;&quot;&gt;QI TO DECREASE UNNECESSARY CHEST X-RAY&lt;br&gt;IN ACUTE ASTHMA EXACERBATION IN CHILDREN 2–18 YEARS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="700" x="260" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=10;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;padding:8px;&quot;&gt;&lt;b&gt;INCLUSION CRITERIA&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Children age 2–18 years&lt;br&gt;• Established asthma diagnosis&lt;br&gt;• Presentation consistent with acute asthma exacerbation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="100" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=10;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;padding:8px;&quot;&gt;&lt;b&gt;EXCLUSION CRITERIA&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Comorbidities: sickle cell disease, congenital heart disease,&lt;br&gt;  immunodeficiency, BPD, severe malnutrition&lt;br&gt;• First-time wheezing unrelated to prior asthma diagnosis&lt;br&gt;• Other conditions where CXR is required:&lt;br&gt;  – Physical findings suggestive of pneumonia or parenchymal&lt;br&gt;    disease (focal crackles, dullness, fever)&lt;br&gt;  – Suspicion of inhaled foreign body (sudden onset,&lt;br&gt;    unilateral decreased breath sounds)&lt;br&gt;  – Suspicion of structural complications&lt;br&gt;    (pneumothorax, pneumomediastinum)&lt;br&gt;  – Trauma, post-op&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="480" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-4" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-2" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="320" />
+              <mxPoint x="410" y="320" />
+            </Array>
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-5" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-3" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="370" />
+              <mxPoint x="610" y="370" />
+            </Array>
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-6" edge="1" parent="1" style="endArrow=classic;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=20;" value="&lt;b style=&quot;font-size:12px;&quot;&gt;DO NOT ROUTINELY OBTAIN CHEST X-RAY&lt;/b&gt;&lt;br&gt;&lt;i&gt;in typical / uncomplicated asthma exacerbation&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="290" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-8" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-7" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ysVk-s7ko_iClBrcKvoG-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=20;" value="&lt;b style=&quot;font-size:12px;&quot;&gt;CONSIDER OBTAINING CXR IF:&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="340" x="340" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b style=&quot;font-size:16px;color:#cc0000;&quot;&gt;OR&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="480" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-11" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-9" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#cc0000;" target="ysVk-s7ko_iClBrcKvoG-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=15;" value="&lt;b style=&quot;font-size:11px;&quot;&gt;Severe Respiratory Distress&lt;br&gt;Respiratory Score 7–12&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="110" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-13" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-9" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4472C4;" target="ysVk-s7ko_iClBrcKvoG-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=15;" value="&lt;b style=&quot;font-size:11px;&quot;&gt;Inadequate Response After ≥ 2 Hours&lt;br&gt;of Routine Asthma Exacerbation Management&lt;/b&gt;&lt;br&gt;&lt;i&gt;WITH any of the following:&lt;/i&gt;" vertex="1">
+          <mxGeometry height="90" width="380" x="540" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-15" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-14" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#4472C4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-16" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="&lt;b&gt;Past Medical&lt;br&gt;History&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="470" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-17" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=left;verticalAlign=middle;spacingLeft=10;" value="1. History of recurrent pneumonia&lt;br&gt;2. History of pneumothorax" vertex="1">
+          <mxGeometry height="50" width="350" x="620" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-18" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="&lt;b&gt;RR &amp;gt; 40*&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="470" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-19" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="2–5 years of age" vertex="1">
+          <mxGeometry height="40" width="350" x="620" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-20" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="&lt;b&gt;RR &amp;gt; 30*&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="470" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-21" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="6–8 years of age" vertex="1">
+          <mxGeometry height="40" width="350" x="620" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-22" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="&lt;b&gt;RR &amp;gt; 20*&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="470" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-23" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="9–18 years of age" vertex="1">
+          <mxGeometry height="40" width="350" x="620" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-24" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="&lt;b&gt;Pulse Oximetry&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="470" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-25" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=left;verticalAlign=middle;" value="&lt;div style=&quot;text-align:left;padding-left:10px;&quot;&gt;Lowest SpO₂ &amp;lt;91% on room air*&lt;br&gt;&lt;b&gt;OR&lt;/b&gt; required inhaled FiO₂ &amp;gt;50% to keep saturations &amp;gt;90%&lt;br&gt;&lt;i&gt;* after 2 hours of routine management&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="350" x="620" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-26" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="&lt;b&gt;Lung Exam&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="470" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-27" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;top=1;left=1;bottom=1;right=1;align=center;verticalAlign=middle;" value="Localizing findings or asymmetry on lung examination" vertex="1">
+          <mxGeometry height="40" width="350" x="620" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-28" edge="1" parent="1" source="ysVk-s7ko_iClBrcKvoG-12" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#cc0000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="1070" />
+              <mxPoint x="410" y="1070" />
+            </Array>
+            <mxPoint x="235" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-29" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1070" />
+            </Array>
+            <mxPoint x="730" y="1010" as="sourcePoint" />
+            <mxPoint x="610" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=20;" value="&lt;b style=&quot;font-size:13px;&quot;&gt;→ OBTAIN CHEST X-RAY&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="400" x="310" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-31" edge="1" parent="1" style="endArrow=classic;html=1;" target="ysVk-s7ko_iClBrcKvoG-30" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1070" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysVk-s7ko_iClBrcKvoG-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;i style=&quot;font-size:10px;color:#666666;&quot;&gt;* Respiratory rate thresholds apply after ≥ 2 hours of routine asthma exacerbation management&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="260" y="1150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
