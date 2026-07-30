@@ -112,7 +112,7 @@
             <mxPoint x="715" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sa-vEfJ3S5XPAa1rJgTy-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;STEP 2&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Baby is &quot;Expected&quot; and Band with Mother&#39;s name if necessary&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="sa-vEfJ3S5XPAa1rJgTy-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;STEP 2&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Baby is marked &quot;Expected&quot; on Track Board and &quot;Banded&quot;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="310" x="560" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="sa-vEfJ3S5XPAa1rJgTy-27" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
