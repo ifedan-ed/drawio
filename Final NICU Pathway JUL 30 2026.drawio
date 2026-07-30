@@ -1,0 +1,304 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pediatric ED Delivery Protocol" id="sQP3sWnS1w5YLoPuYFaB">
+    <mxGraphModel dx="1095" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4a4a4a;fontColor=#ffffff;arcSize=8;strokeWidth=3;" value="&lt;font style=&quot;font-size:24px;&quot;&gt;&lt;b&gt;PEDIATRIC ED DELIVERY RESPONSE WORKFLOW PROTOCOL&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px;&quot;&gt;Pediatric ED Team Activated for ALL Newborn Deliveries (Intra-Hospital &amp;amp; Extramural)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="1000" x="490" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cc3333;strokeColor=#922B21;fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;NEWBORN DELIVERY&lt;br&gt;EVENT DETECTED&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="850" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e67e22;strokeColor=#d35400;fontColor=#ffffff;arcSize=50;" value="&lt;font style=&quot;font-size:12px;&quot;&gt;&lt;b&gt;IMMEDIATE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22" width="90" x="945" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-4" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="330" as="sourcePoint" />
+            <mxPoint x="990" y="338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e87d1e;strokeColor=#d35400;fontColor=#ffffff;arcSize=12;strokeWidth=3;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;PEDIATRIC ED TEAM ACTIVATED&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:14px;&quot;&gt;Attending Physician + Nurse Respond&lt;br&gt;Evaluate Newborn Immediately&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="360" x="810" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-6" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="360" as="sourcePoint" />
+            <mxPoint x="990" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;ASSESS DELIVERY TYPE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="880" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-8" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="460" as="sourcePoint" />
+            <mxPoint x="990" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f39c12;strokeColor=#d35400;fontColor=#000000;strokeWidth=2;" value="&lt;font style=&quot;font-size:16px;&quot;&gt;&lt;b&gt;DELIVERY&lt;br&gt;CLASSIFICATION&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="900" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-10" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="500" as="sourcePoint" />
+            <mxPoint x="990" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf0f1;strokeColor=#bdc3c7;fontColor=#000000;strokeWidth=1;" value="&lt;font style=&quot;font-size:14px;&quot;&gt;EXTRAMURAL DELIVERY&lt;br&gt;&lt;i&gt;(Stable Neonate)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="200" x="420" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf0f1;strokeColor=#bdc3c7;fontColor=#000000;strokeWidth=1;" value="&lt;font style=&quot;font-size:14px;&quot;&gt;UNSTABLE DELIVERY &amp;amp;&lt;br&gt;&lt;b&gt;ALL IMPENDING DELIVERIES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="230" x="1360" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-13" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;exitX=0;exitY=0.5;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="560" as="sourcePoint" />
+            <mxPoint x="620" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-14" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;exitX=1;exitY=0.5;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="560" as="sourcePoint" />
+            <mxPoint x="1360" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-15" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="585" as="sourcePoint" />
+            <mxPoint x="520" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-16" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1475" y="585" as="sourcePoint" />
+            <mxPoint x="1475" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff0;strokeColor=#1a6b35;strokeWidth=3;arcSize=3;" value="" vertex="1">
+          <mxGeometry height="850" width="510" x="270" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d8a4e;strokeColor=#1a6b35;strokeWidth=2;arcSize=12;" value="&lt;font style=&quot;font-size:20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;EXTRAMURAL DELIVERY PATHWAY&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="470" x="290" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 1&lt;/b&gt;&lt;br&gt;Pediatric ED Team (&lt;b&gt;Attending + Nurse&lt;/b&gt;)&lt;br&gt;Responds and Evaluates Newborn&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="330" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-20" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="780" as="sourcePoint" />
+            <mxPoint x="525" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#28a745;strokeColor=#1a6b35;fontColor=#ffffff;strokeWidth=2;" value="&lt;font style=&quot;font-size:14px;&quot;&gt;&lt;b&gt;High Risk or&lt;br&gt;Unstable?&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="450" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cc3333;strokeColor=#922B21;strokeWidth=2;dashed=1;dashPattern=8 4;" value="&lt;font style=&quot;font-size:14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;YES&lt;/b&gt; → Activate&lt;br&gt;NICU Team&lt;br&gt;&lt;i&gt;(See NICU&lt;br&gt;Activation Process)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="145" x="280" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-23" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="845" as="sourcePoint" />
+            <mxPoint x="425" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size:16px;&quot;&gt;STABLE&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="70" x="560" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-25" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="890" as="sourcePoint" />
+            <mxPoint x="525" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;STEP 2&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Baby is &quot;Expected&quot; and Band with Mother&#39;s name if necessary&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="370" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-27" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="990" as="sourcePoint" />
+            <mxPoint x="525" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;STEP 3&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Pediatric ED Attending Documents Assessment in progress note in Baby&#39;s/Mother&#39;s Chart&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="350" x="350" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-29" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="1100" as="sourcePoint" />
+            <mxPoint x="525" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 4&lt;/b&gt;&lt;br&gt;Change Disposition on EPIC to&lt;br&gt;Admit to NICU/Nursery&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="350" x="350" y="1122" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-31" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="1199" as="sourcePoint" />
+            <mxPoint x="525" y="1219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 5&lt;/b&gt;&lt;br&gt;Transport &lt;b&gt;SKIN-TO-SKIN&lt;/b&gt; with Mother&lt;br&gt;&lt;i&gt;(Baby must be STABLE)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="350" x="350" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-33" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="1296" as="sourcePoint" />
+            <mxPoint x="525" y="1316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4edda;strokeColor=#28a745;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 6&lt;/b&gt;&lt;br&gt;Mother&#39;s Nurse Accompanies Transport&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="370" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-35" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="1376" as="sourcePoint" />
+            <mxPoint x="525" y="1401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#2d8a4e;strokeColor=#1a6b35;strokeWidth=3;" value="&lt;font style=&quot;font-size:18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;STABLE PATHWAY&lt;br&gt;COMPLETE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="435" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#1a4a7a;strokeWidth=3;arcSize=3;" value="" vertex="1">
+          <mxGeometry height="830" width="560" x="1190" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a3a5c;strokeColor=#1a4a7a;strokeWidth=2;arcSize=12;" value="&lt;font style=&quot;font-size:20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;IMPENDING DELIVERY PATHWAY&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="520" x="1210" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 1&lt;/b&gt;&lt;br&gt;Pediatric ED Team Responds and Evaluates&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="380" x="1280" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-40" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="760" as="sourcePoint" />
+            <mxPoint x="1470" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 2&lt;/b&gt;&lt;br&gt;NICU Team Activated and Responds&lt;br&gt;(&lt;b&gt;Attending + Resident&lt;/b&gt;)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="380" x="1280" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-42" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="855" as="sourcePoint" />
+            <mxPoint x="1470" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 3&lt;/b&gt;&lt;br&gt;NICU Team &lt;b&gt;ASSUMES CARE&lt;/b&gt; Upon Arrival&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="380" x="1280" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-44" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="935" as="sourcePoint" />
+            <mxPoint x="1470" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 4&lt;/b&gt;&lt;br&gt;Register Baby &amp;amp; Band Baby&lt;br&gt;&lt;i&gt;(Band with mother&#39;s name if immediate transport&lt;br&gt;needed for unstable neonate)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="420" x="1260" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-46" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="1045" as="sourcePoint" />
+            <mxPoint x="1470" y="1065" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 5&lt;/b&gt;&lt;br&gt;Pediatric ED Attending Documents&lt;br&gt;Assessment in Baby&#39;s Chart&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="380" x="1280" y="1065" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-48" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="1140" as="sourcePoint" />
+            <mxPoint x="1470" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 6&lt;/b&gt;&lt;br&gt;Change Disposition on EPIC to&lt;br&gt;Admit to NICU/Nursery&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="380" x="1280" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-50" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="1235" as="sourcePoint" />
+            <mxPoint x="1470" y="1255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#cc3333;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;STEP 7&lt;/b&gt;&lt;br&gt;Transport in &lt;b&gt;ISOLETTE&lt;/b&gt; with NICU Team&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="380" x="1280" y="1255" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-52" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="1315" as="sourcePoint" />
+            <mxPoint x="1470" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-53" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#5b2c8e;strokeColor=#4a2070;strokeWidth=3;" value="&lt;font style=&quot;font-size:18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;NICU CARE&lt;br&gt;TRANSFER&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="65" width="160" x="1390" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dce6f0;strokeColor=#4a4a4a;strokeWidth=3;arcSize=4;" value="" vertex="1">
+          <mxGeometry height="620" width="340" x="1870" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e67e22;strokeColor=#d35400;strokeWidth=2;arcSize=10;" value="&lt;font style=&quot;font-size:20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;NICU TEAM ACTIVATION&lt;br&gt;PROCESS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="310" x="1885" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4a6fa5;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;1. INITIATE PAGE&lt;/b&gt;&lt;br&gt;Pediatric ED Team &lt;b&gt;OR&lt;/b&gt;&lt;br&gt;Adult ED Team&lt;br&gt;Pages Hospital&lt;br&gt;Operator&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="1900" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-57" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2040" y="835" as="sourcePoint" />
+            <mxPoint x="2040" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4a6fa5;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;2. REQUEST&lt;/b&gt;&lt;br&gt;&lt;i&gt;&quot;Page NICU team to&lt;br&gt;Adult ED for&lt;br&gt;delivery&quot;&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="105" width="280" x="1900" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-59" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2040" y="965" as="sourcePoint" />
+            <mxPoint x="2040" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4a6fa5;strokeColor=#2d4a7a;fontColor=#ffffff;strokeWidth=2;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;3. EXECUTE&lt;/b&gt;&lt;br&gt;Operator Executes&lt;br&gt;NICU Team Page&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="280" x="1900" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4a4a4a;strokeWidth=2;dashed=1;dashPattern=8 4;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;&lt;b&gt;NICU RESPONSE TEAM:&lt;/b&gt;&lt;br&gt;Attending + Resident&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="260" x="1910" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-62" edge="1" parent="1" style="endArrow=block;endFill=1;strokeWidth=2;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2040" y="1075" as="sourcePoint" />
+            <mxPoint x="2040" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff0;strokeColor=#1a6b35;strokeWidth=3;arcSize=4;" value="" vertex="1">
+          <mxGeometry height="320" width="500" x="190" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d8a4e;strokeColor=#1a6b35;strokeWidth=2;arcSize=12;" value="&lt;font style=&quot;font-size:20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;STABLE DELIVERY CRITERIA&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="470" x="205" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-65" parent="1" style="text;html=1;align=left;verticalAlign=top;spacingLeft=15;spacingTop=10;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;💚 Heart rate &lt;b&gt;&amp;gt;100 bpm&lt;/b&gt;&lt;br&gt;💚 Spontaneous breathing with &lt;b&gt;good respiratory effort&lt;/b&gt;&lt;br&gt;💚 &lt;b&gt;Good tone&lt;/b&gt;&lt;br&gt;💚 Term gestation (&lt;b&gt;≥37 weeks&lt;/b&gt;)&lt;br&gt;💚 No cyanosis or persistent respiratory distress&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="470" x="205" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#922B21;strokeWidth=3;arcSize=4;" value="" vertex="1">
+          <mxGeometry height="320" width="530" x="750" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cc3333;strokeColor=#922B21;strokeWidth=2;arcSize=12;" value="&lt;font style=&quot;font-size:20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;HIGH RISK/UNSTABLE DELIVERY CRITERIA&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="500" x="765" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-68" parent="1" style="text;html=1;align=left;verticalAlign=top;spacingLeft=15;spacingTop=10;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;🔴 Heart rate &lt;b&gt;&amp;lt;100 bpm&lt;/b&gt; despite initial steps&lt;br&gt;🔴 Apnea, gasping, or &lt;b&gt;labored breathing&lt;/b&gt;&lt;br&gt;🔴 &lt;b&gt;Persistent cyanosis&lt;/b&gt;&lt;br&gt;🔴 &lt;b&gt;Preterm (&amp;lt;37 weeks, especially &amp;lt;34 weeks)&lt;/b&gt;&lt;br&gt;🔴 Requiring &lt;b&gt;positive pressure ventilation&lt;/b&gt;&lt;br&gt;🔴 Requiring &lt;b&gt;chest compressions or medications&lt;/b&gt;&lt;br&gt;🔴 &lt;b&gt;Congenital anomalies&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="500" x="765" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8ee;strokeColor=#d35400;strokeWidth=3;arcSize=4;" value="" vertex="1">
+          <mxGeometry height="420" width="530" x="1340" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e67e22;strokeColor=#d35400;strokeWidth=2;arcSize=12;" value="&lt;font style=&quot;font-size:20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;REQUIRED EQUIPMENT&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="500" x="1355" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-71" parent="1" style="text;html=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size:18px;&quot; color=&quot;#1a3a5c&quot;&gt;&lt;b&gt;STANDARD EQUIPMENT (ALL DELIVERIES)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="1355" y="1705" as="geometry" />
+        </mxCell>
+        <mxCell id="GrnqI_YPyWIhoqr68Jun-72" parent="1" style="text;html=1;align=left;verticalAlign=top;spacingLeft=15;spacingTop=5;" value="&lt;font style=&quot;font-size:18px;&quot;&gt;◆ Radiant warmer with functioning heat source &lt;b&gt;(ISOLETTE)&lt;/b&gt;&lt;br&gt;◆ Oxygen source&lt;br&gt;◆ Suction equipment &lt;b&gt;(bulb syringe)&lt;/b&gt;&lt;br&gt;◆ Bag-mask ventilation device&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;i&gt;(T-piece resuscitator preferred, self-inflating bag as backup)&lt;/i&gt;&lt;br&gt;&lt;br&gt;◆ Pulse oximeter with neonatal probe&lt;br&gt;◆ Warmed blankets/towels for drying&lt;br&gt;◆ Umbilical catheter tray&lt;br&gt;◆ Medications and Airway neonatal kit&lt;br&gt;◆ Panda Resuscitator&lt;/font&gt;" vertex="1">
+          <mxGeometry height="320" width="500" x="1355" y="1740" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
